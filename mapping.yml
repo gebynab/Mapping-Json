@@ -1,0 +1,24 @@
+input_file: 'C:/path/to/input_file.json'
+output_file: 'C:/path/to/directory/output_file'
+
+mapping:
+  - substring: dark.iot botnet
+    category: Malware-Botnet_Malware-Botnet
+
+  - substring: emerging ransomware
+    category: Malware-Ransomware_Malware-Ransomware
+
+  - substring: meris botnet
+    category: Malware-Botnet_Malware-Botnet
+
+  - substring: pegasus
+    category: Malware-Stealer Trojan_Malware-Information Theft Trojan
+
+  - substring: plugx
+    category: Malware-RAT_Malware-RAT
+
+  - substring: signed msi
+    category: Malware-Other Malware_Malware-Other
+
+  - substring: emotet
+    category: Malware-Other Malware_Malware-Other
